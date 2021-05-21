@@ -1,6 +1,9 @@
 ﻿using UnityEditor;
 
-public class CustomMenu : EditorWindow
+namespace PradeepHGK.Editor
 {
-    //Need to add custom editor window
+    public class CustomMenu : EditorWindow
+    {
+        //Need to add custom editor window
+    }
 }
